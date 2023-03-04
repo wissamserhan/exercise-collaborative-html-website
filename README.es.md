@@ -40,7 +40,7 @@ c) Indícale a tus estudiantes o a los miembros de tu equipo que clonen tu repos
 
 Para cargar y ver tu sitio web live, ejecuta el siguiente comando:
 
-```bash
+```bash 
 $ npx http-server --yes -c-1
 ```
 
